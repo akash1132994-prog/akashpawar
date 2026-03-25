@@ -1,2 +1,2 @@
 # akashpawar
-this is my first reposatary
+this is my first git reposatary
